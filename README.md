@@ -36,12 +36,12 @@ total 24
 
 ``` bash
 pwd
-/Users/saim/Documents/HD/GoogleTrends/docker/mnt/airflow/utils
+~/HD/GoogleTrends/docker/mnt/airflow/utils
 
 cd ../../../
 
 pwd
-/Users/saim/Documents/HD/GoogleTrends/docker
+~/HD/GoogleTrends/docker
 ```
 
 ###  Following command will create airflow docker,  (Note: Your docker folder should be your present working directory (PWD)) 
